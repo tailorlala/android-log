@@ -1,0 +1,35 @@
+# OSX
+.DS_Store
+
+# android generated
+bin/
+gen/
+
+
+# IDEA
+.idea/
+*.iml
+out/
+
+
+# gradle
+build/
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+
+
+# build
+lint.xml
+lint.html
+proguard-rules.pro
+
+
+# test
+test.html
+ajcore.*
+
+#unit test
+androidTest/
